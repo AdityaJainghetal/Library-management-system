@@ -1,0 +1,160 @@
+{
+  "Book": [
+    {
+      "Name": "Aditya",
+      "Email": "aditya@gmail.com",
+      "password": "123",
+      "re-password": "123",
+      "id": "11ae"
+    },
+    {
+      "id": "c2f9",
+      "Name": "Aditya",
+      "email": "adityajainghetal@gmail.com",
+      "password": "123",
+      "re-password": "1234"
+    },
+    {
+      "id": "5a10",
+      "Name": "Aditya",
+      "password": "1234"
+    },
+    {
+      "id": "b71f",
+      "Name": "Aditya",
+      "password": "1234"
+    },
+    {
+      "id": "7714",
+      "Name": "Aditya",
+      "password": "123"
+    },
+    {
+      "id": "87a5",
+      "Name": "Aditya Jain",
+      "email": "adityajainghetal@gmail.com",
+      "password": "1234",
+      "re-password": "1234"
+    },
+    {
+      "id": "212b",
+      "Name": "Aditya Jain",
+      "email": "adityajainghetal@gmail.com",
+      "password": "12341",
+      "re-password": "1234"
+    },
+    {
+      "id": "0df1",
+      "Name": "Aditya Jain",
+      "email": "adityajainghetal@gmail.com",
+      "password": "12345",
+      "re-password": "12345"
+    },
+    {
+      "id": "831f",
+      "Name": "Aditya",
+      "password": "123"
+    },
+    {
+      "id": "4dae",
+      "Name": "",
+      "password": ""
+    }
+  ],
+  "DataSave": [
+    {
+      "Name": "HTML",
+      "edition": "2015",
+      "Author": "Aditya Jain",
+      "Branch": "CS",
+      "Price": "450000",
+      "Quantity": "3",
+      "Photo": "download (3).jpeg",
+      "id": "4012"
+    },
+    {
+      "id": "7761",
+      "Name": "HTML",
+      "edition": "09-2024",
+      "Author": "Rajis mishra",
+      "Branch": "IT",
+      "Price": "45000",
+      "Quantity": "5",
+      "Photo": "images.jpeg"
+    },
+    {
+      "id": "5190",
+      "Name": "React.Js",
+      "edition": "08-2024",
+      "Author": "Rajis mishra",
+      "Branch": "IT",
+      "Price": "4000",
+      "Quantity": "4",
+      "Photo": "download (3).jpeg"
+    },
+    {
+      "id": "4351",
+      "Name": "HTML",
+      "edition": "2019",
+      "Author": "Rajis mishra",
+      "Branch": "CS",
+      "Price": "45000",
+      "Quantity": "3",
+      "Photo": "download (2).jpeg"
+    },
+    {
+      "id": "4351",
+      "Name": "REACT .js",
+      "edition": "2019",
+      "Author": "Rajis mishra",
+      "Branch": "IT",
+      "Price": "45000",
+      "Quantity": "3",
+      "Photo": "download (3).jpeg"
+    },
+    {
+      "id": "f722",
+      "Name": "REACT .js",
+      "edition": "09-2025",
+      "Author": "Sanju",
+      "Branch": "CS",
+      "Price": "678000",
+      "Quantity": "36",
+      "Photo": "download (2).jpeg"
+    }
+  ],
+  "Student": [
+    {
+      "id": "4012",
+      "Name": "Aditya Jain",
+      "year": "2015",
+      "College": "TIT",
+      "Branch": "CS",
+      "Photo": "download (3).jpeg"
+    },
+    {
+      "id": "0b06",
+      "Name": "Danish khan",
+      "year": "2020",
+      "College": "GBI college",
+      "Branch": "EC",
+      "Photo": "edit.png"
+    },
+    {
+      "id": "53be",
+      "Name": "Aaditya_jain",
+      "year": "2",
+      "College": "Chada college",
+      "Branch": "IT",
+      "Photo": "photo.jpg"
+    },
+    {
+      "id": "32d3",
+      "Name": "Vikas",
+      "year": "3",
+      "College": "LNCT",
+      "Branch": "CS",
+      "Photo": "piechart3.png"
+    }
+  ]
+}
